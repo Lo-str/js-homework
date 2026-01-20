@@ -11,12 +11,12 @@
 // console.log(`I am ${myAge} years old!`)
 
 // #3
-const myFood = ["Pasta", "Corn", "Rice"]
-const student = {
-    firstName: "Lo",
-    favNum: 32,
-    likeCoding: true,
-    myFood
-}
+// const myFood = ["Pasta", "Corn", "Rice"]
+// const student = {
+//     firstName: "Lo",
+//     favNum: 32,
+//     likeCoding: true,
+//     myFood
+// }
 // console.log(student) // Print whole object
-console.log(student.firstName) // Print firstName property
+// console.log(student.firstName) // Print firstName property
